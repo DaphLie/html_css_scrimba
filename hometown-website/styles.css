@@ -1,0 +1,96 @@
+body{
+    margin: 0px 0px 0px 0px;
+    font-family: 'Josefin Sans', sans-serif;    
+    text-shadow: 0px 0px 1px black;
+}
+
+#main-page{
+    text-align: center;
+    background-image: url("mogi.jpg");
+    background-size: cover;
+    padding: 0px 0 150px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0px 0px 0px 0px;
+}
+
+#second-page{
+    margin: 0px 0px 0px 0px;
+    text-align: center;
+    align-items: center;
+    background: #2A9D8F;
+    color: #240046;
+}
+
+#second-page:hover{
+    background-image: url("https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif");
+}
+
+#frase1{
+    background: #2A9D8F;
+    padding: 10px 20px;
+    color: #E9C46A;
+    border-radius: 5px;
+    margin: 200px 0 10px 0;
+}
+
+#frase2{
+    background: #E76F51;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+    margin: 5px 250px 0px 250px;
+}
+
+.flexbox{
+    margin: 0%;
+    padding: 0px 100px 0px 100px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.img{
+    margin-top: 0;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+.letra-fina{
+    padding: 0px 50px 0px 50px;
+    font-weight: 100;
+    font-size: 20px;
+}
+
+#fix{
+    margin: 0%;
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+
+#last-page{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    padding: 15px 30px;
+    display: flex;
+    width: 400px;
+    height: auto;
+    background: #b298dc;
+    border-radius: 10px;
+    margin: 15px auto;
+    border-bottom: 8px solid #ff9100;
+    color: #b8d0eb;
+    text-shadow: 5px 1px 1px black;
+
+
+}
+
+#profile{
+    border: 3px dashed white;
+    margin: auto 15px;
+    width: 200px;
+    height: 200px;
+    border-radius: 35%;
+}
