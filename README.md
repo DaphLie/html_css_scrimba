@@ -3,7 +3,7 @@
 You can find this course [here](https://scrimba.com/learn/htmlandcss)!😉
 
 ## Personal Website 👽
-Work from module number 1 in the course.(https://github.com/DaphLie/hometown-homepage/assets/106819719/0f6a3a7e-0cfe-4bea-bac8-f60832cb8111)
+Work from module number 1 in the course.
 
 
 !(Preview of the Personal Website)[]
