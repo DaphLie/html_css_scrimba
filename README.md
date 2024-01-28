@@ -1,6 +1,6 @@
-# Projects made with Scrimba - HTML and CSS introduction
+# Projects made with Scrimba - HTML and CSS introduction 😉
 
-You can find this course [here](https://scrimba.com/learn/htmlandcss)!😉
+You can find this course [here](https://scrimba.com/learn/htmlandcss)!
 
 ## Personal Website 👽
 Work from module number 1 in the course.
